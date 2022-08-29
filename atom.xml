@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>iBME</title>
+  
+  <subtitle>iBME</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-08-29T10:18:53.338Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>iBME</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>本站说明</title>
+    <link href="http://example.com/2022/08/29/001/"/>
+    <id>http://example.com/2022/08/29/001/</id>
+    <published>2022-08-29T10:18:53.338Z</published>
+    <updated>2022-08-29T10:18:53.338Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;摘要示例&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="公告" scheme="http://example.com/categories/%E5%85%AC%E5%91%8A/"/>
+    
+    
+    <category term="公告" scheme="http://example.com/tags/%E5%85%AC%E5%91%8A/"/>
+    
+  </entry>
+  
+</feed>
