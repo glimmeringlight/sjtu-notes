@@ -462,12 +462,12 @@ article#tag .all-tags ul li span:before {
 .article h1 {
   text-align: left;
   color: var(--color-h1);
-  margin-top: 48px;
+  margin-top: 36px;
 }
 .article h2 {
   text-align: left;
   color: var(--color-h2);
-  margin-top: 48px;
+  margin-top: 36px;
 }
 .article h3 {
   text-align: left;
@@ -2049,11 +2049,11 @@ img.lazyload:not(.placeholder).loaded {
 }
 .md h1:before,
 .md h2:before {
-  margin-top: -32px;
+  margin-top: -44px;
 }
 .md .article-meta+h1,
 .md .article-meta+h2 {
-  margin-top: -80px;
+  margin-top: -92px;
 }
 .md h3,
 .md h4,
@@ -2071,7 +2071,7 @@ img.lazyload:not(.placeholder).loaded {
   font-weight: bold;
 }
 .md h2+h3:before {
-  margin-top: -80px;
+  margin-top: -92px;
 }
 .md ul,
 .md ol {

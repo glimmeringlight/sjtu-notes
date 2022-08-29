@@ -3,11 +3,17 @@
   <entry>
     <title>本站说明</title>
     <url>/2022/08/29/001/</url>
-    <content><![CDATA[<p>摘要示例</p>
+    <content><![CDATA[<p>这篇文章会介绍本站成立的缘由以及目的。同时，你也可以从这篇文章中了解如何在本站分享你的经验。</p>
 <span id="more"></span>
 
+<h2 id="为什么建立这个网站"><a href="#为什么建立这个网站" class="headerlink" title="为什么建立这个网站"></a>为什么建立这个网站</h2><p><em>TODO</em></p>
+<h2 id="使用手册"><a href="#使用手册" class="headerlink" title="使用手册"></a>使用手册</h2><p>本手册较为详细地介绍了你可能在本站用到的一切操作。我也真诚地希望发布经验分享贴和阅读经验贴的方式方法不会成为大家使用这个平台的拦路虎。</p>
+<h3 id="发布评论"><a href="#发布评论" class="headerlink" title="发布评论"></a>发布评论</h3><p>在这里，阅读文章<strong>不需要任何基础准备</strong>。你可以在主页、分类页面、标签页面等诸多地方找到文章链接并点击阅读。同时，如果你有既定的目标主题，可以直接通过搜索阅读。但是，如果要在文章下方评论，你还是需要作出一些准备的。这就是一个<a href="https://github.com/">Github账号</a>。注册完毕后，你就可以通过Github授权发布评论。</p>
+<h3 id="发布文章"><a href="#发布文章" class="headerlink" title="发布文章"></a>发布文章</h3><p>如果你有值得分享的经验，那再好不过了。下面来介绍一下如何发布属于你自己的帖子。</p>
+<p>首先，进入本网站的<a href="https://github.com/felixchen0707/BME-course-source-code">源码仓库</a>并fork此仓库。若你是<strong>第一次</strong>为网站仓库提交经验分享贴，首先进入<code>source/_data/author.yml</code>填写你的作者信息(该信息不必实名，只会在文章开始处写明本文作者)。</p>
+<div galleryFlag itemscope itemtype="http://schema.org/ImageGallery" class="gallery " data-group='default'><div class='fancybox'><a class='fancybox' pjax-fancybox itemscope itemtype="http://schema.org/ImageObject" itemprop="url" href='https://i.imgtg.com/2022/08/29/ZvMOb.jpg' data-fancybox='default' data-caption='填写作者信息'><img fancybox itemprop="contentUrl" src="https://i.imgtg.com/2022/08/29/ZvMOb.jpg" class="lazyload" data-srcset="https://i.imgtg.com/2022/08/29/ZvMOb.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="填写作者信息"></a><span class='image-caption'>填写作者信息</span></div></div>
 
-<h2 id="一个尝试"><a href="#一个尝试" class="headerlink" title="一个尝试"></a>一个尝试</h2><p>$E&#x3D;mc^2$</p>
+<h2 id="反馈问题"><a href="#反馈问题" class="headerlink" title="反馈问题"></a>反馈问题</h2><p>本站基于Hexo框架和Volantis主题构建，源代码和网站静态页面托管于Github，通过Github Workflow工作流构建。由于维护者技术力有限，无法做到百分之百的完美。若对于网站本身有建议和提议，你可以通过<a href="mailto:felix_chen@sjtu.edu.cn">邮箱</a>联系我，或者直接在<a href="https://github.com/felixchen0707/BME-course-source-code/issues">issue</a>反馈问题。或者，你可以直接提<a href="https://github.com/felixchen0707/BME-course-source-code/pulls">pull request</a>帮助我们修复这个问题。</p>
 ]]></content>
       <categories>
         <category>公告</category>
