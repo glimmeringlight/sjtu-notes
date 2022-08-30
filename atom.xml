@@ -3,11 +3,11 @@
   <title>iBME</title>
   
   <subtitle>iBME</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://bme.felixchen0707.cn/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2022-08-30T07:37:53.945Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://bme.felixchen0707.cn/"/>
+  <updated>2022-08-30T07:44:51.045Z</updated>
+  <id>https://bme.felixchen0707.cn/</id>
   
   <author>
     <name>iBME</name>
@@ -18,20 +18,20 @@
   
   <entry>
     <title>本站说明</title>
-    <link href="http://example.com/2022/08/30/001/"/>
-    <id>http://example.com/2022/08/30/001/</id>
-    <published>2022-08-30T07:37:53.945Z</published>
-    <updated>2022-08-30T07:37:53.945Z</updated>
+    <link href="https://bme.felixchen0707.cn/2022/08/30/001/"/>
+    <id>https://bme.felixchen0707.cn/2022/08/30/001/</id>
+    <published>2022-08-30T07:44:51.045Z</published>
+    <updated>2022-08-30T07:44:51.045Z</updated>
     
     
     <summary type="html">&lt;p&gt;这篇文章会介绍本站成立的缘由以及目的。同时，你也可以从这篇文章中了解如何在本站分享你的经验。&lt;/p&gt;</summary>
     
     
     
-    <category term="公告" scheme="http://example.com/categories/%E5%85%AC%E5%91%8A/"/>
+    <category term="公告" scheme="https://bme.felixchen0707.cn/categories/%E5%85%AC%E5%91%8A/"/>
     
     
-    <category term="公告" scheme="http://example.com/tags/%E5%85%AC%E5%91%8A/"/>
+    <category term="公告" scheme="https://bme.felixchen0707.cn/tags/%E5%85%AC%E5%91%8A/"/>
     
   </entry>
   
