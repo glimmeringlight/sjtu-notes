@@ -96,6 +96,10 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
 
+  # tab支持
+  - pymdownx.tabbed:
+      alternate_style: true
+
   # 行内代码
   - pymdownx.inlinehilite
 
