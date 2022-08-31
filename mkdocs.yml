@@ -2,7 +2,7 @@ site_name: iBME
 
 repo_url: https://github.com/felixchen0707/sjtu-iBME
 repo_name: felixchen0707/sjtu-iBME
-edit_uri: ""
+edit_uri: "edit/mkdocs/docs/"
 
 theme:
   name: material
@@ -67,8 +67,10 @@ markdown_extensions:
   # 脚注支持
   - footnotes
 
+  # html代码支持
   - md_in_html
 
+  # 目录支持
   - toc:
       permalink: ⚓︎
 
@@ -108,10 +110,10 @@ extra_javascript:
   - assets/javascripts/tex-mml-chtml.js
 
 plugins:
-  - glightbox
-  - search:
-  # - git-revision-date-localized:
-  #     enable_creation_date: true
+  - glightbox # 点击图片放大
+  - search: # 搜索插件
+  - git-revision-date-localized:
+      enable_creation_date: true # 显示创建和最后一次更新日期
 
 
 extra:
