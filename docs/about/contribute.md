@@ -15,7 +15,12 @@
 
 ## 修改原有内容流程
 
-fork本文[源码仓库](https://github.com/felixchen0707/sjtu-iBME)，在docs目录下找到文章对应的md文件并修改。修改完成后提交pull request，我们将尽快审核内容并在审核通过后合并代码，Vercel将自动部署。
++ 方式1
+  进入你想要修改的文章页面，点击右侧的编辑按钮，直接修改md文件内容。
++ 方式2
+  fork本文[源码仓库](https://github.com/felixchen0707/sjtu-iBME)，在docs目录下找到文章对应的md文件并修改。
+
+修改完成后提交pull request，我们将尽快审核内容并在审核通过后合并代码，Vercel将自动部署。
 
 ## 发布新内容流程
 
