@@ -44,8 +44,9 @@ theme:
   features:
     - content.code.annotate
     - content.tooltips
+    - navigation.instant
     - navigation.indexes
-    - navigation.sections
+    # - navigation.sections
     # - navigation.expand  # 默认情况下不要展开，防止文章数量过多
     - navigation.tabs
     # - navigation.tabs.sticky
@@ -129,7 +130,31 @@ nav:
     - index.md
     
   - 课程:
-    - courses/grade1/1.md
+    - 大一课程:
+      - courses/grade1/MATH1201.md
+      - courses/grade1/MATH1203.md
+      - courses/grade1/MATH1607H.md
+      - courses/grade1/MATH1202.md
+      - courses/grade1/MATH1204.md
+      - courses/grade1/MATH1608H.md
+      - courses/grade1/CS1501.md
+      - courses/grade1/MATH1205.md
+      - courses/grade1/MATH1207.md
+      - courses/grade1/ME1221.md
+      - courses/grade1/CS0501.md
+      - courses/grade1/PHY1251.md
+      - courses/grade1/PHY1251H.md
+    - 大二课程:
+      - courses/grade2/EE0501.md
+      - courses/grade2/MECH2508.md
+      - courses/grade2/MATH1206.md
+      - courses/grade2/BME1201.md
+      - courses/grade2/PHY1252.md
+      - courses/grade2/PHY1252H.md
+      - courses/grade2/PHY1253.md
+      - courses/grade2/PHY1253H.md
+
+
 
   - 关于:
     - about/contribute.md
