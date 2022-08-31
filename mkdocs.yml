@@ -56,6 +56,8 @@ theme:
     - toc.follow
 
 markdown_extensions:
+  - abbr
+  - def_list
   - footnotes
   - pymdownx.arithmatex:
       generic: true
@@ -74,6 +76,7 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.keys
 
 extra_javascript:
   - assets/javascripts/mathjax.js
