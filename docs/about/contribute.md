@@ -3,7 +3,7 @@
 ## Markdown支持度
 
 + [Common Mark](https://commonmark.org/help/)
-+ 数学公式（MathJax，LaTex语法）
++ 数学公式（本站使用MathJax来支持$\LaTeX$语法）
 + 脚注
 + html语法
 + 目录

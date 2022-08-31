@@ -1,0 +1,27 @@
+name: 问题反馈 question report
+description: 如果你想要反馈问题，请优先选择此。Choose this for reporting your question.
+assignees:
+  - felixchen0707
+body:
+  - type: markdown
+    attributes:
+      value: |
+        标题请简述你遇到的问题。
+        Describe the bug you want to report briefly.
+  - type: textarea
+    id: content
+    attributes:
+      label: 详细描述这个问题。 Describe your question in detail.
+    validations:
+      required: true
+  - type: textarea
+    id: possible-solution
+    attributes:
+      label: 你认为可能的解决方案（非必填）。 How to solve this problem in your opinion?(not necessary)
+  - type: checkboxes
+    id: never-reported
+    attributes:
+      label: 请确认以下事项。 Please confirm the following matters.
+      options:
+        - label: 我仔细阅读了公告，没有这类问题的描述。 I've read the notifications and cannot find a possible solution.
+        - label: 我阅读了以往的issue，没有发现类似的。 I've read the issues in the past and fail to find a similar issue.

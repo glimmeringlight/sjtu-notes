@@ -1,0 +1,29 @@
+name: 特性需求 feature request
+description: 如果你对新特性有需求，请优先选择此。 Choose this for feature request.
+assignees:
+  - felixchen0707
+body:
+  - type: markdown
+    attributes:
+      value: |
+        标题请描述你需要的特性。
+        Describe the feature you want to request briefly.
+  - type: textarea
+    id: content
+    attributes:
+      label: 详细描述这个特性。 Describe feature you request in detail.
+    validations:
+      required: true
+  - type: textarea
+    id: possible-solution
+    attributes:
+      label: 你认为可能的实现方案（非必填）。 What can implement the feature in your opinion?(not necessary)
+  - type: checkboxes
+    id: never-reported
+    attributes:
+      label: 请确认以下事项。 Please confirm the following matters.
+      options:
+        - label: 我仔细阅读了公告，没有对该特性的支持。 I've read the notifications and this feature is not supported.
+          required: true
+        - label: 我阅读了以往的issue，没有发现类似的。 I've read the issues in the past and fail to find a similar issue.
+          required: true

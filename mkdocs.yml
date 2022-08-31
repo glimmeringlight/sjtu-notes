@@ -46,36 +46,61 @@ theme:
     - content.tooltips
     - navigation.indexes
     - navigation.sections
-    - navigation.expand
-    # - navigation.tabs
-    - navigation.top
+    # - navigation.expand  # 默认情况下不要展开，防止文章数量过多
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top  # 返回顶部
     - navigation.tracking
     - search.suggest
     - search.highlight
     - search.share
     - toc.follow
 
+# MarkDown扩展
 markdown_extensions:
+  # 缩写支持
   - abbr
+
+  # 列表支持
   - def_list
+
+  # 脚注支持
   - footnotes
-  - pymdownx.arithmatex:
-      generic: true
+
   - md_in_html
+
   - toc:
       permalink: ⚓︎
+
+  # 表格支持
   - tables
+
+  # 数学公式
   - pymdownx.arithmatex:
       generic: true
+
+  # 加粗、斜体等支持
   - pymdownx.betterem
+
+  # 高亮、下划线、删除线
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
+
+  # 代码块支持
   - pymdownx.highlight:
       anchor_linenums: true
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+  # 行内代码
   - pymdownx.inlinehilite
+
+  # 任务单支持
   - pymdownx.tasklist:
       custom_checkbox: true
+  
+  # 键盘支持
   - pymdownx.keys
 
 extra_javascript:
@@ -96,11 +121,15 @@ extra:
 
 copyright: Copyright &copy; Since 2022 iBME contributors
 
-# nav:
-# - 开始:
-#   - index.md
-#   - contact.md
-#   - contribute.md
-#   - discussion.md
-# - 课程:
-#   - 大一课程/
+# 全站导航栏
+nav:
+  - 开始:
+    - index.md
+    
+  - 课程:
+    - courses/grade1/1.md
+
+  - 关于:
+    - about/contribute.md
+    - about/discussion.md
+    - about/contact.md
