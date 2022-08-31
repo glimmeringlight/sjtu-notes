@@ -92,9 +92,9 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/felixchen0707
+      link: https://github.com/felixchen0707/sjtu-iBME
 
-copyright: Copyright &copy; Since 2022 Felix Chen
+copyright: Copyright &copy; Since 2022 iBME contributors
 
 # nav:
 # - 开始:
