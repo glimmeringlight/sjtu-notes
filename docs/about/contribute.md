@@ -45,3 +45,7 @@ fork项目的[源码仓库](https://github.com/felixchen0707/sjtu-iBME)，并在
 ## 对于非文章内容的贡献
 
 如果你贡献的内容不是文章内容，请在pull request中详细阐述**你的贡献内容**。对于非内容性的修改，我们可能需要更长的时间来合并代码。
+
+## 更多问题
+
+如果你有其他有关贡献的问题，你可以前往[Github Issues](https://github.com/felixchen0707/sjtu-iBME/issues)中提出，或者在此页面直接留言。
