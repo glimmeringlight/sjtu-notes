@@ -32,4 +32,4 @@
 
 ## 反馈问题
 
-本站基于[**Material for MkDocs**](https://squidfunk.github.io/mkdocs-material/)构建，源代码托管于[Github](https://github.com)，通过[Vercel](https://vercel.com)部署。由于维护者技术力有限，无法做到百分之百的完美。若对于网站本身有建议和提议，你可以通过[邮箱](mailto:felix_chen@sjtu.edu.cn)联系我，或者直接在[issue](https://github.com/felixchen0707/BME-course-source-code/issues)反馈问题。或者，你可以直接提[pull request](https://github.com/felixchen0707/BME-course-source-code/pulls)帮助我们修复这个问题。
+本站基于[**Material for MkDocs**](https://squidfunk.github.io/mkdocs-material/)构建，源代码托管于[Github](https://github.com)，通过[Vercel](https://vercel.com)部署。由于维护者技术力有限，无法做到百分之百的完美。若对于网站本身有建议和提议，你可以通过[邮箱](mailto:felix_chen@sjtu.edu.cn)联系我，或者直接在[issue](https://github.com/felixchen0707/BME-course-source-code/issues)反馈问题。或者，你可以直接发起[pull request](https://github.com/felixchen0707/BME-course-source-code/pulls)帮助我们修复这个问题。

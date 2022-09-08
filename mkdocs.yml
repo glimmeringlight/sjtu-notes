@@ -1,3 +1,4 @@
+#############################贡献内容请勿更改以下配置#######################################################
 site_name: iBME
 
 repo_url: https://github.com/felixchen0707/sjtu-iBME
@@ -128,6 +129,8 @@ extra:
 
 copyright: Copyright &copy; Since 2022 iBME contributors
 
+#####################################如果您是贡献内容，请不要随意更改以上的配置###############################
+
 # 全站导航栏
 nav:
   - 开始:
@@ -135,30 +138,58 @@ nav:
     
   - 课程:
     - 大一课程:
-      - courses/grade1/MATH1201.md
-      - courses/grade1/MATH1203.md
-      - courses/grade1/MATH1607H.md
-      - courses/grade1/MATH1202.md
-      - courses/grade1/MATH1204.md
-      - courses/grade1/MATH1608H.md
-      - courses/grade1/CS1501.md
-      - courses/grade1/MATH1205.md
-      - courses/grade1/MATH1207.md
-      - courses/grade1/ME1221.md
-      - courses/grade1/CS0501.md
-      - courses/grade1/PHY1251.md
-      - courses/grade1/PHY1251H.md
+      - MATH1201 高等数学I:
+        - courses/grade1/MATH1201/MATH1201_01.md
+      - MATH1203 数学分析I:
+        - courses/grade1/MATH1203/MATH1203_01.md
+      - MATH1607H 数学分析(荣誉)I:
+        - courses/grade1/MATH1607H/MATH1607H_01.md
+      - MATH1202 高等数学II:
+        - courses/grade1/MATH1202/MATH1202_01.md
+      - MATH1204 数学分析II:
+        - courses/grade1/MATH1204/MATH1204_01.md
+      - MATH1608H 数学分析(荣誉)II:
+        - courses/grade1/MATH1608H/MATH1608H_01.md
+      - MATH1205 线性代数:
+        - courses/grade1/MATH1205/MATH1205_01.md
+      - MATH1207 概率统计:
+        - courses/grade1/MATH1207/MATH1207_01.md
+      - CS1501 程序设计思想与方法(C++):
+        - courses/grade1/CS1501/CS1501_01.md
+      - CS0501 数据结构:
+        - courses/grade1/CS0501/CS0501_01.md
+      - PHY1251 大学物理(A类)I:
+        - courses/grade/PHY1251/PHY1251_01.md
+      - PHY1251 大学物理(荣誉)I:
+        - courses/grade1/PHY1251H/PHY1251H_01.md
     - 大二课程:
-      - courses/grade2/EE0501.md
-      - courses/grade2/MECH2508.md
-      - courses/grade2/MATH1206.md
-      - courses/grade2/BME1201.md
-      - courses/grade2/PHY1252.md
-      - courses/grade2/PHY1252H.md
-      - courses/grade2/PHY1253.md
-      - courses/grade2/PHY1253H.md
-      - courses/grade2/EST2501.md
-      - courses/grade2/CHEM2204.md
+      - EE0501 电路理论:
+        - courses/grade2/EE0501/EE0501_01.md
+      - EST2501 数字电子技术:
+        - courses/grade2/EST2501/EST2501_01.md
+      - MECH2508 理论力学:
+        - courses/grade2/MECH2508/MECH2508_01.md
+      - MATH1206 数理方法:
+        - courses/grade2/MATH1206/MATH1206_01.md
+      - BME1201 生物医学工程导论:
+        - courses/grade2/BME1201/BME1201_01.md
+      - BME1203 生物学导论:
+        - courses/grade2/BME1203/BME1203_01.md
+      - BME2301 生物医学信号与系统(1):
+        - courses/grade2/BME2301/BME2301_01.md
+      - BME2201 生物医学统计概论:
+        - courses/grade2/BME2201/BME2201_01.md
+      - BME2402 细胞生物学:
+        - courses/grade2/BME2402/BME2402_01.md
+      - CHEM2204 有机化学(B类):
+        - courses/grade2/CHEM2204/CHEM2204_01.md
+      - BME2302 医学物理导论:
+        - courses/grade2/BME2302/BME2302_01.md
+      - BME2401 材料科学与工程基础:
+        - courses/grade2/BME2401/BME2401_01.md
+      - BME2304 模拟电子技术与实验:
+        - courses/grade2/BME2401/BME2401_01.md
+
 
 
 
