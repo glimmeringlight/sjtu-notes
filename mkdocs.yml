@@ -113,7 +113,7 @@ markdown_extensions:
 
 extra_javascript:
   - assets/javascripts/mathjax.js
-  - assets/javascripts/tex-mml-chtml.js
+  - https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/mathjax/3.2.0/es5/tex-mml-chtml.min.js
 
 plugins:
   - glightbox # 点击图片放大
