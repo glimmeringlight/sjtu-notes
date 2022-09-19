@@ -116,6 +116,44 @@ extra_javascript:
   - assets/javascripts/tex-mml-chtml.js
   - assets/javascripts/polyfill.min.js
 
+  # - assets/javascripts/input/tex/extensions/action.js
+  # - assets/javascripts/input/tex/extensions/all-packages.js
+  # - assets/javascripts/input/tex/extensions/ams.js
+  # - assets/javascripts/input/tex/extensions/amscd.js
+  # - assets/javascripts/input/tex/extensions/autoload.js
+  # - assets/javascripts/input/tex/extensions/bbox.js
+  - assets/javascripts/input/tex/extensions/boldsymbol.js
+  # - assets/javascripts/input/tex/extensions/braket.js
+  # - assets/javascripts/input/tex/extensions/bussproofs.js
+  # - assets/javascripts/input/tex/extensions/cancel.js
+  # - assets/javascripts/input/tex/extensions/cases.js
+  # - assets/javascripts/input/tex/extensions/centernot.js
+  # - assets/javascripts/input/tex/extensions/color.js
+  # - assets/javascripts/input/tex/extensions/colortbl.js
+  # - assets/javascripts/input/tex/extensions/colorv2.js
+  # - assets/javascripts/input/tex/extensions/configmacros.js
+  # - assets/javascripts/input/tex/extensions/empheq.js
+  # - assets/javascripts/input/tex/extensions/enclose.js
+  # - assets/javascripts/input/tex/extensions/extpfeil.js
+  # - assets/javascripts/input/tex/extensions/gensymb.js
+  # - assets/javascripts/input/tex/extensions/html.js
+  # - assets/javascripts/input/tex/extensions/mathtools.js
+  # - assets/javascripts/input/tex/extensions/mhchem.js
+  # - assets/javascripts/input/tex/extensions/newcommand.js
+  # - assets/javascripts/input/tex/extensions/noerrors.js
+  # - assets/javascripts/input/tex/extensions/noundefined.js
+  # - assets/javascripts/input/tex/extensions/physics.js
+  # - assets/javascripts/input/tex/extensions/require.js
+  # - assets/javascripts/input/tex/extensions/setoptions.js
+  # - assets/javascripts/input/tex/extensions/tagformat.js
+  # - assets/javascripts/input/tex/extensions/textcomp.js
+  # - assets/javascripts/input/tex/extensions/textmacros.js
+  # - assets/javascripts/input/tex/extensions/unicode.js
+  # - assets/javascripts/input/tex/extensions/upgreek.js
+  # - assets/javascripts/input/tex/extensions/verb.js
+
+
+
 plugins:
   - glightbox # 点击图片放大
   - search: # 搜索插件
