@@ -128,9 +128,9 @@ extra_javascript:
   # - assets/javascripts/input/tex/extensions/cancel.js
   # - assets/javascripts/input/tex/extensions/cases.js
   # - assets/javascripts/input/tex/extensions/centernot.js
-  # - assets/javascripts/input/tex/extensions/color.js
-  # - assets/javascripts/input/tex/extensions/colortbl.js
-  # - assets/javascripts/input/tex/extensions/colorv2.js
+  - assets/javascripts/input/tex/extensions/color.js
+  - assets/javascripts/input/tex/extensions/colortbl.js
+  - assets/javascripts/input/tex/extensions/colorv2.js
   # - assets/javascripts/input/tex/extensions/configmacros.js
   # - assets/javascripts/input/tex/extensions/empheq.js
   # - assets/javascripts/input/tex/extensions/enclose.js
