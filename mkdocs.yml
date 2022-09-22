@@ -21,7 +21,7 @@ theme:
   # Default values, taken from mkdocs_theme.yml
   language: zh
   font:
-    text: Roboto
+    text: 'Noto Sans SC'
     code: Roboto Mono
   favicon: assets/images/favicon.ico
   icon:
