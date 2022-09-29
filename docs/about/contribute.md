@@ -78,3 +78,15 @@ nav:
 ## 更多问题
 
 如果你有其他有关贡献的问题，你可以前往[Github Issues](https://github.com/felixchen0707/sjtu-iBME/issues)中提出，或者在此页面直接留言。
+
+## 附录
+
+### LaTeX符号对照表
+
+![](../assets/images/site/tex_commands/1.png)
+
+![](../assets/images/site/tex_commands/2.png)
+
+![](../assets/images/site/tex_commands/3.png)
+
+![](../assets/images/site/tex_commands/4.png)
