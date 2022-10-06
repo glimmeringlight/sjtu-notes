@@ -1,8 +1,8 @@
 #############################贡献内容请勿更改以下配置#######################################################
 site_name: Notes at SJTU
 
-repo_url: https://github.com/felixchen0707/sjtu-iBME
-repo_name: felixchen0707/sjtu-iBME
+repo_url: https://github.com/felixchen0707/sjtu-notes
+repo_name: felixchen0707/sjtu-notes
 edit_uri: "edit/mkdocs/docs/"
 
 theme:
@@ -185,7 +185,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/felixchen0707/sjtu-iBME
 
-copyright: Copyright &copy; Since 2022 iBME contributors
+copyright: Copyright &copy; Since 2022 sjtu-notes contributors
 
 #####################################如果您是贡献内容，请不要随意更改以上的配置###############################
 
