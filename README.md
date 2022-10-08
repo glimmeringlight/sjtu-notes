@@ -8,7 +8,7 @@
 
 ## 贡献内容
 
-阅读[贡献指引](https://notes.felixchen0707.cn/about/contribute.md)。
+阅读[贡献指引](https://notes.felixchen0707.cn/about/contribute/)。
 
 ## 贡献者名单
 
