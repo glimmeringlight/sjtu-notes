@@ -30,8 +30,8 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/UeslessSpeaker">
-            <img src="https://avatars.githubusercontent.com/u/105629324?v=4" width="100;" alt="UeslessSpeaker"/>
+        <a href="https://github.com/uselessspeaker">
+            <img src="https://avatars.githubusercontent.com/u/105629324?v=4" width="100;" alt="uselessspeaker"/>
             <br />
             <sub><b>Useless_speaker</b></sub>
         </a>
