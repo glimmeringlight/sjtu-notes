@@ -1,8 +1,8 @@
 #############################贡献内容请勿更改以下配置#######################################################
-site_name: iBME
+site_name: Notes at SJTU
 
-repo_url: https://github.com/felixchen0707/sjtu-iBME
-repo_name: felixchen0707/sjtu-iBME
+repo_url: https://github.com/felixchen0707/sjtu-notes
+repo_name: felixchen0707/sjtu-notes
 edit_uri: "edit/mkdocs/docs/"
 
 theme:
@@ -185,7 +185,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/felixchen0707/sjtu-iBME
 
-copyright: Copyright &copy; Since 2022 iBME contributors
+copyright: Copyright &copy; Since 2022 sjtu-notes contributors
 
 #####################################如果您是贡献内容，请不要随意更改以上的配置###############################
 
@@ -253,8 +253,10 @@ nav:
       - 大学物理(A类，荣誉)II:
         - notes/grade2/PHY1252/001.md
         - notes/grade2/PHY1252/002.md
+        - notes/grade2/PHY1252/003.md
       - 电路理论:
         - notes/grade2/EE0501/001.md
+        - notes/grade2/EE0501/002.md
       - 数理方法:
         - notes/grade2/MATH1206/001.md
         - notes/grade2/MATH1206/002.md
