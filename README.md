@@ -16,8 +16,8 @@
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/BowenYoung">
-            <img src="https://avatars.githubusercontent.com/u/62268514?v=4" width="100;" alt="BowenYoung"/>
+        <a href="https://github.com/BeaCox">
+            <img src="https://avatars.githubusercontent.com/u/62268514?v=4" width="100;" alt="BeaCox"/>
             <br />
             <sub><b>BeaCox</b></sub>
         </a>
